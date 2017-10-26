@@ -1,7 +1,9 @@
 OSM Bright
 ==========
 
-![screenshot](https://raw.github.com/mapbox/osm-bright/master/preview.png)
+![screenshot](https://raw.githubusercontent.com/GrandNancy/osm-bright/master/preview1.png)
+![screenshot](https://raw.githubusercontent.com/GrandNancy/osm-bright/master/preview2.png)
+![screenshot](https://raw.githubusercontent.com/GrandNancy/osm-bright/master/preview3.png)
 
 OSM Bright is a sensible starting point for quickly making beautiful maps based
 on an OpenStreetMap database. It is written in the [Carto][] styling language
