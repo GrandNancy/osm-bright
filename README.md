@@ -1,4 +1,4 @@
-OSM Bright
+OSM Bright -> G-Ny Bright
 ==========
 
 ![screenshot](https://raw.githubusercontent.com/GrandNancy/osm-bright/master/preview1.png)
